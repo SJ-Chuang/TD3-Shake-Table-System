@@ -44,4 +44,4 @@ changeable parameter:
 env.plot_history(name = 'filename.jpg')
 ```
 
-![image](figure/figure01.jpg)
+<img src="figure/figure01.jpg" alt="figure" style="zoom:50%;" />
