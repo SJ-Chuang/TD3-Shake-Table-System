@@ -44,4 +44,4 @@ changeable parameter:
 env.plot_history(name = 'filename.jpg')
 ```
 
-<img src="figure/figure01.jpg" alt="figure" style="zoom:50%;" />
+![figure](https://github.com/SJ-Chuang/TD3-Shake-Table-System/blob/master/figure/figure01.JPG)
