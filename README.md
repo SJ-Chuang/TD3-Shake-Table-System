@@ -17,8 +17,7 @@ python3 td3.py --env_dir ./env
 
 ```
 Optional arguments
-    --env_dir,		environment directory,			default='./env'
-    --test,			test mode
+    --env_dir,		environment directory,			default='./env'   
     --do_render,	do render
 ```
 
@@ -37,6 +36,12 @@ changeable parameter:
 ​	**discount factor**,
 
 ​	**interpolation factor**
+
+## Test
+
+```
+python3 td3.py --env_dir ./env --test
+```
 
 ## Save plot to current directory
 
