@@ -25,7 +25,7 @@ Optional arguments
 
 Modify the hyper-parameters in \__main__ of td3.py
 
-changeable parameter:
+adjustable hyperparameters:
 
 ​	**batch size**,
 
